@@ -1,1 +1,1 @@
-# estrategia
+# singleton
